@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Maze - Pygame Project</title>
+  <style>
+    body {
+      background: #1e272e;
+      color: #f5f6fa;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 3em;
+      color: #00cec9;
+    }
+    p {
+      font-size: 1.2em;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      font-size: 1.2em;
+      color: white;
+      background-color: #0984e3;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
+    a.button:hover {
+      background-color: #74b9ff;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎮 Happy Maze 🎮</h1>
+  <p>A maze challenge built with <b>Python & Pygame</b>.</p>
+  <p>Move your square through the obstacles, reach the finish, and beat the timer!</p>
+  <a href="https://github.com/olive6212/HAPPY_MAZE_-/archive/refs/heads/main.zip" class="button">⬇️ Download Game</a>
+  <p>(Requires Python and Pygame installed)</p>
+</body>
+</html>
